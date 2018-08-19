@@ -4,9 +4,9 @@
 // where the connector will be.  Takes some weight off of soldered/crimped connections.
 
 // Configuration
-connector_od = 19.2; // Connector shell outer diameter.  Leave some wiggle room
+connector_od = 19.6; // Connector shell outer diameter.  Leave some wiggle room
 connector_length = 40; // Open end of connector shell to end of reducer (fully engaged)
-coax_od = 6.4; // Coax outer diameter.  Leave some wiggle room
+coax_od = 6.6; // Coax outer diameter.  Leave some wiggle room
 wall_thickness = 4; // 4 mm should be strong enough, but increase as needed
 shell_length = 10; // Length of the sleeve portions
 
